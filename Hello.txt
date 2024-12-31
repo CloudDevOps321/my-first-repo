@@ -1,3 +1,4 @@
 echo "Hello Git!"
 This is a change.
 I am making changes in githup to be updated in my local git repo.
+Another change to stage and not commit the change
