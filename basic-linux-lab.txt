@@ -1,0 +1,36 @@
+Question: What does mkdir Music do? It creates a directory.
+Question: Why do we use pwd after navigating into the Music directory? To know the path to the music directry.
+Question: What did you achieve with the mkdir commands? It creats the Rock, Pop, and the Jazz folders.
+Verify the creation of the folders using ls. Ls confirms the creation of the folders.
+Question: How do you create files inside specific folders? Files are created using the touch command
+Question: Why do we navigate back (cd ..) after each folder? I navigate back because I was in a path relative to the folder hosting the directories.
+Question: Why do we create these subdirectories (css, js, images)? What is their purpose? The subdirectory created to play a different role in building the MyWebsite.
+Question: What initial files did you create and where? The index.html is the first I created
+Question: How did you navigate through directories to create these files? I located the index.html using the ls command in the MyWebsite directory.
+Question: Why do you create a School directory? To store different school activities.
+Question: Why organize assignments by subjects? to arrange activities by subject.
+Question: How do you create assignment files within specific subject folders? CD into the specific folders and use the touch command to create the files.
+Question: Why is it useful to create a specific directory for your presentation? To needly arrange different files and folders.
+Question: How do these subdirectories help in organizing your presentation? They can be placeholders for diffrent activities
+Question: What files did you create for your presentation and in which folders? Slide1 and Slide2 are created for my presentation.
+Question: How do you navigate through your directories and review your work? I navigate through my files and directory using the cd, ls, and the cd .. commands.
+Why is it important to keep your directories organized? To keep your work neat and tidy, and also to have easy access to your work.
+Question: How do you remove directories and their contents? Why might you need to do this? I used the rm -r command to remove direcotries and their contents.
+Question: How do these subdirectories help in organizing your backups? It seperates different content into their categorized folders.
+Question: How do you create backup files within specific folders? CD into specified folders and use the touch command to creat the files. Also, Cd .. out of the folder.
+Question: Why create a project directory? To save different stages of the project lifecycle.
+Question: How do these subdirectories help in organizing your development environment? Each directory holds infromation for a particuler task.
+Question: What files did you create for your development project and in which folders? I created the main, and helper files into the SRC folder, the test_main, and test_helper into the TESTS folder. Also, the README and requirements files into the DOCS folder.
+Question: Why create a Notes directory? To hold files, folders for different activities.
+Question: How do these subdirectories help in organizing your notes? To hold different information in their respective folders, providing smooth navigation.
+Question: Why create a Journal directory? To keep personal infomation orgainzed.
+Question: How do these subdirectories help in organizing your journal entries? They by organizating activities as they occur monthly.
+Question: How do these subdirectories help in organizing your hackathon project? It organizes hackathon project into different stages.
+Question: What files did you create for your hackathon project and in which folders? I created brainstorm, todo files into the ideas folder. the main, helper files into the code folder. finally the slides, demo files into the presentation folder.
+Question: What additional information do you get from ls -l? Why might this be useful? It provides the files size, Day, Month, time, permissions, and the author of the files.
+Question: What does $(pwd) do? Why is it useful to understand absolute paths? It takes you directly to the absolute path.
+Question: How does using a relative path differ from using an absolute path? Relative path is relative to the working directory, while absolute path is the complete path from the root directory.
+Question: What does the cp command do in this context? Verify the copy using ls. The copied file remain in the same folder.
+Question: What does the -r option do in the cp command? Why might you need to use it?It copies the files in the present directory to another directory.
+
+
